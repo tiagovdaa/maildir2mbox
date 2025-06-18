@@ -34,3 +34,6 @@ python3 maildir2mbox.py \
   --verbose
 ```
 
+### 👻 Author
+Developed by Tiago “Bruxo” Almeida
+Inspired by a real battle against Gmail storage quotas 🦴🔥
